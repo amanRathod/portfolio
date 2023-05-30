@@ -42,7 +42,7 @@ const Footer = () => {
       <div className="app__footer-cards">
         <div className="app__footer-card ">
           <img src={images.email} alt="email" />
-          <a href="mailto:aksrathod07@gmail.com" className="p-text">aksrathod07@gmail.com</a>
+          <a href="mailto:me@amanrathod.pro" className="p-text">me@amanrathod.pro</a>
         </div>
         <div className="app__footer-card">
           <img src={images.mobile} alt="phone" />

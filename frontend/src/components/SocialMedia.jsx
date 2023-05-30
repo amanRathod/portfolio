@@ -4,7 +4,7 @@ import { BsTwitter, BsGithub, BsLinkedin } from 'react-icons/bs';
 const SocialMedia = () => (
   <div className="app__social">
     <div>
-      <a href="https://www.linkedin.com/in/amanRathod007" target="_blank" rel="noreferrer">
+      <a href="https://www.linkedin.com/in/amanrathodpro/" target="_blank" rel="noreferrer">
         <BsLinkedin />
       </a>
     </div>
@@ -14,7 +14,7 @@ const SocialMedia = () => (
       </a>
     </div>
     <div>
-      <a href="https://twitter.com/amanRathod0" target="_blank" rel="noreferrer">
+      <a href="https://twitter.com/amanrathodpro" target="_blank" rel="noreferrer">
         <BsTwitter />
       </a>
     </div>
